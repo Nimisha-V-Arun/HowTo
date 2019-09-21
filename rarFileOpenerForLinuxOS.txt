@@ -1,0 +1,17 @@
+To install the .rar file opener in Linux Operating System:
+  a) Open terminal
+  b) Command to install the .rar file opener in Ubuntu:
+      sudo apt install unrar
+      
+  c) Command to install the .rar file opener in Fedora:
+      sudp dnf install unrar
+
+To extract the .rar file using 'unrar' command:
+  unrar e fileName.rar
+  
+To extract according their folder structure using 'unrar' command:
+  unrar x fileName.rar
+  
+  (This will create a Directory named 'fileName' and extract the contents of .rar file into it.)
+ 
+ 
